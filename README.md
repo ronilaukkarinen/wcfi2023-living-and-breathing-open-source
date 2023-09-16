@@ -2,6 +2,8 @@
 
 Slides for the talk.
 
+## [View the slides online](https://slides.dude.fi/wcfi-2023/#0)
+
 WordPress is open source. Linux is open source. The internet was built on open source principles. An unpopular opinion and a bold statement: Open source has no downsides. Then why doesn’t everyone release their code as open source? There are many beliefs and fears regarding to the subject. Roni has been open sorcerer on GitHub for 15 years and now shares the benefits, tips and some treats of contributing things open source.
 
 _Presented by Roni Laukkarinen_
